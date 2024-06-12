@@ -1,0 +1,12 @@
+Terms to know:
+
+Objects 
+Variable
+Function
+Class
+Method
+Attribute
+
+
+
+Objects are variables that contain data. The Object data can be anything from int, string etc. If you're unsure you can always print("type(900)")
