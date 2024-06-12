@@ -1,0 +1,13 @@
+#Basics 
+
+#vscode notes / shortcuts  
+
+#Open terminal 
+#CTR + ` (backtick) OR type > into the command prompt and click on open terminal 
+
+#Activate virtual environment 
+# .\name_of_directory\Scripts\activate
+#You should now see (name_of_directory) in front of your directory 
+#Remember that you need to re-download every library for each virtual environment you create.
+
+#Reactivate virtual environment 
