@@ -6,9 +6,4 @@ CTR + ` (backtick) OR type > into the command prompt and click on open terminal
 Activate virtual environment 
 .\name_of_directory\Scripts\activate
 you should now see (name_of_directory) in front of your directory 
-Remember that you need to re-download every library for each virtual environment you create.
-
-#Reactivate virtual environment 
-
-
-
+Remember that you need to re-download every library for each virtual environment you create. 
